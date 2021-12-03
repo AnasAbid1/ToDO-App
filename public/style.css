@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    text-align: center;
+    background-color: black;
+}
+
+h1{
+    text-align: center;
+}
+.searchBox{
+    text-align: center;
+    align-content: center;
+    
+}
+li{
+    text-align: center;
+}
+.fullBody{
+    background-color: black;
+    color: white;
+}
+button{
+    background-color: rgb(172, 117, 16);
+}
+.btn{
+    color: orange;
+}
+.listttt{
+    background-color: black;
+    text-overflow: initial;
+}
